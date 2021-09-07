@@ -1,4 +1,4 @@
-# graph
+# Graph
 Adjacency Matrix Graph Implementation
 
 It was a homework in DSA course in Innopolis University
